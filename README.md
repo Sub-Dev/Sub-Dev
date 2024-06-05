@@ -17,7 +17,7 @@
  
 <br>
  
-### Redes Sociais e Email !
+### Rede Sociai e Email !
  
 <div> 
   <a href = "mailto:bilomarin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
