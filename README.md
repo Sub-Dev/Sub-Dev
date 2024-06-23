@@ -7,7 +7,7 @@ Olá! Sou um desenvolvedor web full stack focado em criar soluções digitais pr
 - Tecnologias Principais: JavaScript, React, HTML, CSS, PHP, Laravel
 - Objetivo: Sempre buscando novas tecnologias e melhores práticas para melhorar continuamente meus projetos.
 - Foco Atual: Dominando React para desenvolvimento front-end.
--   
+    
 <div align="center" style="margin: 20px 0;">
   <h3>🚀 Minhas Habilidades</h3>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
