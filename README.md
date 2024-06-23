@@ -7,14 +7,7 @@ Olá! Sou um desenvolvedor web full stack focado em criar soluções digitais pr
 - Tecnologias Principais: JavaScript, React, HTML, CSS, PHP, Laravel
 - Objetivo: Sempre buscando novas tecnologias e melhores práticas para melhorar continuamente meus projetos.
 - Foco Atual: Dominando React para desenvolvimento front-end.
-
-<div align="center">
-   <a href="https://github.com/Sub-Dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sub-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sub-Dev&layout=compact&langs_count=6&theme=github_dark"/>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sub-Dev&theme=dark" alt="Sub-Dev" />
-</div>
-  
+-   
 <div align="center" style="margin: 20px 0;">
   <h3>🚀 Minhas Habilidades</h3>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -57,5 +50,6 @@ Este projeto é uma réplica detalhada da interface de usuário do Netflix, dese
    <a href="https://github.com/Sub-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sub-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sub-Dev&layout=compact&langs_count=6&theme=github_dark"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sub-Dev&theme=dark" alt="Sub-Dev" />
 </div>
 
