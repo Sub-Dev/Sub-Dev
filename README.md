@@ -26,7 +26,7 @@ Olá! Sou um desenvolvedor web full stack focado em criar soluções digitais pr
 ### Rock, Paper, Scissors Game
 Um jogo de Pedra, Papel e Tesoura interativo, desenvolvido com React.js, HTML e CSS. Utiliza armazenamento local para salvar as pontuações do usuário.
 - [Repositório GitHub](https://github.com/Sub-Dev/Rock-Paper-Scissors)
-- [Demo](sub-dev.github.io/Rock-Paper-Scissors/)
+- [Demo](https://sub-dev.github.io/Rock-Paper-Scissors/)
 
 ### Clone Netflix UI
 Este projeto é uma réplica detalhada da interface de usuário do Netflix, desenvolvida para mostrar habilidades em front-end com HTML, CSS e JavaScript, utilizando a biblioteca React.js. A interface é fiel à experiência do usuário original, incluindo o carrossel da listas de filmes além do filme destaque com os detalhes dinâmicos obtidos através da API TMDb.
