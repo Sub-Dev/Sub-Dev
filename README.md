@@ -34,7 +34,7 @@ Este projeto é uma réplica detalhada da interface de usuário do Netflix, dese
 - [Demo](https://sub-dev.github.io/clone-netflix-ui/)
 
 ### Blizzard Landing Page
-Este projeto é uma landing page responsiva, desenvolvida para o desafio da BRChallenges, que destaca os principais jogos da Blizzard de forma dinâmica e envolvente. Utilizando um conjunto de tecnologias, incluindo HTML5, CSS3, JavaScript, React.js, Material-UI, Sass, TypeScript e Axios onde os jogos são obtidos por uma API e apresentados ao usuarios em uma lista além também de apresentar o jogo destaque com um pequeno trailer do mesmo em um carrossel.
+Este projeto é uma landing page responsiva, desenvolvida para o desafio da BRChallenges, que destaca os principais jogos da Blizzard de forma dinâmica e envolvente. Utilizando um conjunto de tecnologias, incluindo HTML5, CSS3, JavaScript, React.js, Material-UI, Sass, TypeScript e Axios onde os jogos são obtidos por uma API e apresentados ao usuarios em uma lista além também de apresentar o jogo destaque com um pequeno trailer do mesmo.
 - [Repositório GitHub](https://github.com/Sub-Dev/blizzard-br-challenges)
 - [Demo](https://sub-dev.github.io/blizzard-br-challenges/)
 
