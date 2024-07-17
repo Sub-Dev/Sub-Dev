@@ -2,11 +2,11 @@
 
 ## 👋 Olá! Eu sou Anthony Marin, também conhecido como Sub-Dev
 
-Olá! Sou um desenvolvedor web full stack focado em criar soluções digitais práticas e impactantes. Tenho estudado tanto questões do front-end quanto do back-end, com um forte interesse em aprimorar minhas habilidades em React para desenvolvimento front-end atualmente.
+Olá! Sou um desenvolvedor web full stack focado em criar soluções digitais práticas e impactantes. Tenho estudado tanto questões do front-end quanto do back-end, com um forte interesse em aprimorar minhas habilidades em React para desenvolvimento front-end atualmente e NestJS para back-end.
  
 - Tecnologias Principais: JavaScript, React, HTML, CSS, PHP, Laravel
 - Objetivo: Sempre buscando novas tecnologias e melhores práticas para melhorar continuamente meus projetos.
-- Foco Atual: Dominando React para desenvolvimento front-end.
+- Foco Atual: Dominando React para desenvolvimento front-end e NestJS para back-end.
     
 <div align="center" style="margin: 20px 0;">
   <h3>🚀 Minhas Habilidades</h3>
