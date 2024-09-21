@@ -17,11 +17,25 @@ Olá! Sou um desenvolvedor web full stack focado em criar soluções digitais pr
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg">
+  <img align="center" alt="JWT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg">
 </div>
  
 <br>
 
 ## 📂 Projetos Principais
+
+### Task Management App
+O Task Management App é um aplicativo fullstack que demonstra o uso de tecnologias modernas para gerenciar projetos e tarefas. Utilizando React para o frontend, NestJS para a API, PostgreSQL para o banco de dados e Docker para conteinerização, o projeto busca uma solução escalável e eficiente. A aplicação inclui autenticação com JWT, cache com Redis e uma interface interativa com drag-and-drop para o Kanban board.
+- [Repositório GitHub](https://github.com/Sub-Dev/task-management-app)
 
 ### Rock, Paper, Scissors Game
 Um jogo de Pedra, Papel e Tesoura interativo, desenvolvido com React.js, HTML e CSS. Utiliza armazenamento local para salvar as pontuações do usuário.
