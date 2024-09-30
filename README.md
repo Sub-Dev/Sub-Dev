@@ -62,6 +62,9 @@ Este projeto é uma landing page responsiva, desenvolvida para o desafio da BRCh
 </div>
 
 <br>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ## 📈 Estatísticas do GitHub
 
