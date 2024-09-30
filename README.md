@@ -62,9 +62,6 @@ Este projeto é uma landing page responsiva, desenvolvida para o desafio da BRCh
 </div>
 
 <br>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ## 📈 Estatísticas do GitHub
 
@@ -74,4 +71,6 @@ Este projeto é uma landing page responsiva, desenvolvida para o desafio da BRCh
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sub-Dev&layout=compact&langs_count=6&theme=github_dark"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sub-Dev&theme=dark" alt="Sub-Dev" />
 </div>
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
